@@ -1,7 +1,7 @@
 /Seven Cities/backup_acsprset.spr
 /Seven Cities/acsprset.spr
-/Seven Cities/Compiled/
-/Seven Cities/_Debug/
+/Seven Cities/Compiled/**
+/Seven Cities/_Debug/**
 /Seven Cities/Music/MUSIC2.mp3
 /Seven Cities/Music/MUSIC3.mp3
 /Seven Cities/Music/MUSIC5.mp3
