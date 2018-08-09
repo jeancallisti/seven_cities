@@ -1,4 +1,4 @@
-
+/*
 struct ActionsLogic {
     import static CursorMode DetectAvailableRightClick(); //should be called once per loop, to save resources
     import static CursorMode GetAvailableRightClick();    //can be called as often as needed
@@ -24,3 +24,4 @@ import function ResetUseItem(); //Resets it to 0
 import function GetGiveItem(); //gives the value previously set with SetGiveItem
 import function GetUseItem(); //gives the value previously set with SetUseItem
 
+*/
