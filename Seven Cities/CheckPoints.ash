@@ -29,7 +29,7 @@ enum CheckPointsEnum {
   eChckpnt_27_ConventYard, 
   eChckpnt_28_SpainGeorgeTent, 
   eChckpnt_29_SpainOfficerTent,
-  eChckpnt_30_FOACredits, 
+  eChckpnt_30_FOACredits, //Same as eChckpnt_16_FoAcredits
   eChckpnt_31_Credits, 
   eChckpnt_32_NEWYORKSubmarineCutscene, 
   eChckpnt_33_GuiSettings, 
@@ -78,6 +78,8 @@ struct CheckPoints {
                                                         //sets all the variables and adds it to the list
   import static int RequestedCheckpoint2();
   import static void RegisterAll(); 
+  
+  import static void PopulateControls(ListBox* LbCategories,  ListBox* LbCheckpoints) ;
   
   //////////////////////////////////////
   //
