@@ -1,0 +1,69 @@
+<doc>
+    <bugslist>
+        <bug>
+            <id>
+                0
+            </id>
+            <type>
+                graphical_glitch
+            </type>
+            <author>
+                
+            </author>
+            <revision>
+                
+            </revision>
+            <uid>
+                
+            </uid>
+            <text>
+                            Enter here bug description.[        
+            </text>
+                    
+        </bug>
+        <bug>
+            <id>
+                1
+            </id>
+            <type>
+                missing_interaction
+            </type>
+            <author>
+                
+            </author>
+            <revision>
+                
+            </revision>
+            <uid>
+                
+            </uid>
+            <text>
+                            Enter here bug description.[        
+            </text>
+                    
+        </bug>
+        <bug>
+            <id>
+                2
+            </id>
+            <type>
+                blocking_bug
+            </type>
+            <author>
+                
+            </author>
+            <revision>
+                
+            </revision>
+            <uid>
+                
+            </uid>
+            <text>
+                            Enter here bug description.        
+            </text>
+                    
+        </bug>
+            
+    </bugslist>
+    
+</doc>
