@@ -2781,7 +2781,7 @@
                       <GUILabel>
                         <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>65535</TextColor>
-                        <Font>19</Font>
+                        <Font>18</Font>
                         <Text>Nothing</Text>
                         <Height>10</Height>
                         <Locked>False</Locked>
@@ -12755,11 +12755,11 @@ return
       </Font>
       <Font>
         <ID>22</ID>
-        <PointSize>9</PointSize>
+        <PointSize>0</PointSize>
         <Name>TumbleTiny</Name>
         <OutlineFont>0</OutlineFont>
         <OutlineStyle>None</OutlineStyle>
-        <SourceFilename xml:space="preserve">C:\Users\GQHH9006\Documents\perso\Dropbox\seven_cities\AGS sources and Releases\MODULES\git_thumbleweed3\assets\xpaider2.ttf</SourceFilename>
+        <SourceFilename />
         <VerticalOffset>0</VerticalOffset>
         <LineSpacing>0</LineSpacing>
       </Font>
@@ -33968,8 +33968,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\spain_short.ogg</SourceFileName>
                     <ScriptName>aMusicSpain_short</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\spain_short.ogg</SourceFileName>
                     <Index>18</Index>
                     <Type>2</Type>
                     <BundlingType>InSeparateVOX</BundlingType>
@@ -34432,8 +34432,8 @@ return
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <TypeID>1</TypeID>
         <Name xml:space="preserve">Ambient Sound</Name>
+        <TypeID>1</TypeID>
         <MaxChannels>2</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>SlowFade</CrossfadeClips>
