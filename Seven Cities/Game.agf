@@ -4366,11 +4366,11 @@
                     <SelectedBackgroundColor>16</SelectedBackgroundColor>
                     <Font>13</Font>
                     <Translated>False</Translated>
-                    <Height>109</Height>
+                    <Height>124</Height>
                     <Locked>False</Locked>
                     <Width>173</Width>
-                    <Left>108</Left>
-                    <Top>36</Top>
+                    <Left>107</Left>
+                    <Top>22</Top>
                     <ZOrder>0</ZOrder>
                     <ID>0</ID>
                     <Name>ListBoxCheckpoints</Name>
@@ -4414,8 +4414,8 @@
                     <TextAlignment>TopLeft</TextAlignment>
                     <TextColor>0</TextColor>
                     <Font>13</Font>
-                    <Text xml:space="preserve">Please pick a checkpoint from the list below and click on the button.[You may use the MOUSE WHEEL or DOUBLE CLICK.</Text>
-                    <Height>17</Height>
+                    <Text xml:space="preserve">Please pick a checkpoint from the list below and click on the button.</Text>
+                    <Height>23</Height>
                     <Locked>False</Locked>
                     <Width>293</Width>
                     <Left>7</Left>
@@ -4532,11 +4532,11 @@
                     <SelectedBackgroundColor>16</SelectedBackgroundColor>
                     <Font>0</Font>
                     <Translated>True</Translated>
-                    <Height>109</Height>
+                    <Height>124</Height>
                     <Locked>False</Locked>
-                    <Width>100</Width>
-                    <Left>7</Left>
-                    <Top>36</Top>
+                    <Width>99</Width>
+                    <Left>6</Left>
+                    <Top>22</Top>
                     <ZOrder>9</ZOrder>
                     <ID>9</ID>
                     <Name>ListBoxCategories</Name>
@@ -33968,8 +33968,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\spain_short.ogg</SourceFileName>
                     <ScriptName>aMusicSpain_short</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\spain_short.ogg</SourceFileName>
                     <Index>18</Index>
                     <Type>2</Type>
                     <BundlingType>InSeparateVOX</BundlingType>
@@ -33991,8 +33991,8 @@ return
             </SubFolders>
             <AudioClips>
               <AudioClip>
-                <SourceFileName>music\music1.mp3</SourceFileName>
                 <ScriptName>aMusic1</ScriptName>
+                <SourceFileName>music\music1.mp3</SourceFileName>
                 <Index>1</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -34003,8 +34003,8 @@ return
                 <FileLastModifiedDate>2010-06-18 15:41:40Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music2.mp3</SourceFileName>
                 <ScriptName>aMusic2</ScriptName>
+                <SourceFileName>music\music2.mp3</SourceFileName>
                 <Index>2</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -34015,8 +34015,8 @@ return
                 <FileLastModifiedDate>2010-06-18 15:40:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music3.mp3</SourceFileName>
                 <ScriptName>aMusic3</ScriptName>
+                <SourceFileName>music\music3.mp3</SourceFileName>
                 <Index>3</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -34027,8 +34027,8 @@ return
                 <FileLastModifiedDate>2010-05-05 14:09:12Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music4.mp3</SourceFileName>
                 <ScriptName>aMusic4</ScriptName>
+                <SourceFileName>music\music4.mp3</SourceFileName>
                 <Index>4</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -34039,8 +34039,8 @@ return
                 <FileLastModifiedDate>2010-07-01 14:06:46Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music5.mp3</SourceFileName>
                 <ScriptName>aMusic5</ScriptName>
+                <SourceFileName>music\music5.mp3</SourceFileName>
                 <Index>5</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -34051,8 +34051,8 @@ return
                 <FileLastModifiedDate>2010-07-02 15:55:46Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>music\music6.mp3</SourceFileName>
                 <ScriptName>aMusic6</ScriptName>
+                <SourceFileName>music\music6.mp3</SourceFileName>
                 <Index>6</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -34088,8 +34088,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\icecracks1.ogg</SourceFileName>
                     <ScriptName>aIcecracks1</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\icecracks1.ogg</SourceFileName>
                     <Index>25</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34100,8 +34100,8 @@ return
                     <FileLastModifiedDate>2016-11-22 05:25:48Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\step1.ogg</SourceFileName>
                     <ScriptName>aStep1</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\step1.ogg</SourceFileName>
                     <Index>26</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34112,8 +34112,8 @@ return
                     <FileLastModifiedDate>2016-11-22 05:41:41Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\step2.ogg</SourceFileName>
                     <ScriptName>aStep2</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\step2.ogg</SourceFileName>
                     <Index>27</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34124,8 +34124,8 @@ return
                     <FileLastModifiedDate>2016-11-22 05:41:54Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\step3.ogg</SourceFileName>
                     <ScriptName>aStep3</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\step3.ogg</SourceFileName>
                     <Index>28</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34148,8 +34148,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\whiplash.ogg</SourceFileName>
                     <ScriptName>aWhiplash</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\whiplash.ogg</SourceFileName>
                     <Index>17</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34172,8 +34172,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\truck\truck00.ogg</SourceFileName>
                     <ScriptName>aTruck00</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\truck\truck00.ogg</SourceFileName>
                     <Index>19</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34184,8 +34184,8 @@ return
                     <FileLastModifiedDate>2014-02-17 04:40:51Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\machinegun\machinegun00.ogg</SourceFileName>
                     <ScriptName>aMachinegun00</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\machinegun\machinegun00.ogg</SourceFileName>
                     <Index>20</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34196,8 +34196,8 @@ return
                     <FileLastModifiedDate>2014-02-17 04:46:11Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\crickets\crickets00.ogg</SourceFileName>
                     <ScriptName>aCrickets00</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\crickets\crickets00.ogg</SourceFileName>
                     <Index>21</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34219,8 +34219,8 @@ return
             </SubFolders>
             <AudioClips>
               <AudioClip>
-                <SourceFileName>sound\sound1.mp3</SourceFileName>
                 <ScriptName>aSound1</ScriptName>
+                <SourceFileName>sound\sound1.mp3</SourceFileName>
                 <Index>7</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -34231,8 +34231,8 @@ return
                 <FileLastModifiedDate>2010-06-04 16:54:56Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound2.mp3</SourceFileName>
                 <ScriptName>aSound2</ScriptName>
+                <SourceFileName>sound\sound2.mp3</SourceFileName>
                 <Index>8</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -34243,8 +34243,8 @@ return
                 <FileLastModifiedDate>2010-07-18 22:36:16Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound3.mp3</SourceFileName>
                 <ScriptName>aSound3</ScriptName>
+                <SourceFileName>sound\sound3.mp3</SourceFileName>
                 <Index>9</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -34255,8 +34255,8 @@ return
                 <FileLastModifiedDate>2010-07-23 17:57:40Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound4.mp3</SourceFileName>
                 <ScriptName>aSound4</ScriptName>
+                <SourceFileName>sound\sound4.mp3</SourceFileName>
                 <Index>10</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -34267,8 +34267,8 @@ return
                 <FileLastModifiedDate>2010-07-24 20:34:32Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound5.mp3</SourceFileName>
                 <ScriptName>aSound5</ScriptName>
+                <SourceFileName>sound\sound5.mp3</SourceFileName>
                 <Index>11</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -34279,8 +34279,8 @@ return
                 <FileLastModifiedDate>2010-07-24 20:34:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound6.mp3</SourceFileName>
                 <ScriptName>aSound6</ScriptName>
+                <SourceFileName>sound\sound6.mp3</SourceFileName>
                 <Index>12</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -34291,8 +34291,8 @@ return
                 <FileLastModifiedDate>2010-08-09 22:31:16Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <SourceFileName>sound\sound7.mp3</SourceFileName>
                 <ScriptName>aSound7</ScriptName>
+                <SourceFileName>sound\sound7.mp3</SourceFileName>
                 <Index>13</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -34317,8 +34317,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\Source-Seven Cities Demo 1.2.1.1\Seven Cities\Sound\snow_tempest.mp3</SourceFileName>
                     <ScriptName>aSnow_tempest</ScriptName>
+                    <SourceFileName xml:space="preserve">C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\Source-Seven Cities Demo 1.2.1.1\Seven Cities\Sound\snow_tempest.mp3</SourceFileName>
                     <Index>16</Index>
                     <Type>1</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34329,8 +34329,8 @@ return
                     <FileLastModifiedDate>2013-08-03 10:59:51Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\ambiant_cave1.ogg</SourceFileName>
                     <ScriptName>aAmbiant_cave1</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\ambiant_cave1.ogg</SourceFileName>
                     <Index>23</Index>
                     <Type>1</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34341,8 +34341,8 @@ return
                     <FileLastModifiedDate>2016-11-22 05:01:31Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\ambiant_cave2.ogg</SourceFileName>
                     <ScriptName>aAmbiant_cave2</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\ambiant_cave2.ogg</SourceFileName>
                     <Index>24</Index>
                     <Type>1</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34365,8 +34365,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">C:\Users\GQHH9006\Documents\perso\Dropbox\seven_cities_music_and_sound_effects\Sound Effects\07 - PARIS\AMBIENT water dripping in cave.ogg</SourceFileName>
                     <ScriptName>aWater</ScriptName>
+                    <SourceFileName xml:space="preserve">C:\Users\GQHH9006\Documents\perso\Dropbox\seven_cities_music_and_sound_effects\Sound Effects\07 - PARIS\AMBIENT water dripping in cave.ogg</SourceFileName>
                     <Index>31</Index>
                     <Type>1</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -34399,8 +34399,8 @@ return
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <SourceFileName>Sound/SOUND1.mp3</SourceFileName>
                 <ScriptName>aTestClip</ScriptName>
+                <SourceFileName>Sound/SOUND1.mp3</SourceFileName>
                 <Index>29</Index>
                 <Type>4</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -34432,32 +34432,32 @@ return
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <TypeID>1</TypeID>
         <Name xml:space="preserve">Ambient Sound</Name>
+        <TypeID>1</TypeID>
         <MaxChannels>2</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>SlowFade</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <TypeID>2</TypeID>
         <Name>Music</Name>
+        <TypeID>2</TypeID>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>30</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>MediumFade</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <TypeID>3</TypeID>
         <Name>Sound</Name>
+        <TypeID>3</TypeID>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>False</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <TypeID>4</TypeID>
         <Name>Debug_MaxChannels0</Name>
+        <TypeID>4</TypeID>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/installation.xsl"?>
+<FontEditor>
+  <Color>-12566464</Color>
+  <Text>The quick brown Fox jumped over the lazy Dog.</Text>
+  <Grid>false</Grid>
+</FontEditor>
