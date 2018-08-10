@@ -12718,7 +12718,7 @@ return
         <PointSize>9</PointSize>
         <Name>TumbleTextOut</Name>
         <OutlineFont>0</OutlineFont>
-        <OutlineStyle>None</OutlineStyle>
+        <OutlineStyle>Automatic</OutlineStyle>
         <SourceFilename xml:space="preserve">C:\Users\GQHH9006\Documents\perso\Dropbox\seven_cities\AGS sources and Releases\MODULES\git_thumbleweed3\assets\xpaider2.ttf</SourceFilename>
         <VerticalOffset>0</VerticalOffset>
         <LineSpacing>0</LineSpacing>
@@ -12737,8 +12737,8 @@ return
         <ID>20</ID>
         <PointSize>10</PointSize>
         <Name>TumbleSpeech</Name>
-        <OutlineFont>0</OutlineFont>
-        <OutlineStyle>None</OutlineStyle>
+        <OutlineFont>21</OutlineFont>
+        <OutlineStyle>UseOutlineFont</OutlineStyle>
         <SourceFilename xml:space="preserve">C:\Users\GQHH9006\Documents\perso\Dropbox\seven_cities\AGS sources and Releases\MODULES\git_thumbleweed3\assets\adventure2.ttf</SourceFilename>
         <VerticalOffset>0</VerticalOffset>
         <LineSpacing>0</LineSpacing>
@@ -12758,7 +12758,7 @@ return
         <PointSize>0</PointSize>
         <Name>TumbleTiny</Name>
         <OutlineFont>0</OutlineFont>
-        <OutlineStyle>None</OutlineStyle>
+        <OutlineStyle>Automatic</OutlineStyle>
         <SourceFilename />
         <VerticalOffset>0</VerticalOffset>
         <LineSpacing>0</LineSpacing>
