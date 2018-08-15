@@ -66,6 +66,7 @@ struct CheckpointsGui {
    import static void Hide();
    import static void OnButtonClick();
    import static void OnNoMusicClick();
+   import static void OnMouseClick(MouseButton button);
 };
 
 /*

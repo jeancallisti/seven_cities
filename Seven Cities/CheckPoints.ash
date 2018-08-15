@@ -80,6 +80,8 @@ struct CheckPoints {
   import static void RegisterAll(); 
   
   import static void PopulateControls(ListBox* LbCategories,  ListBox* LbCheckpoints) ;
+  import static void PopulateCheckpoints(ListBox* LbCheckpoints, int categoryIndex);
+  
   
   //////////////////////////////////////
   //

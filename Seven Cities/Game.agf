@@ -2769,7 +2769,7 @@
                       <Clickable>False</Clickable>
                       <Visibility>Persistent</Visibility>
                       <PopupYPos>0</PopupYPos>
-                      <ZOrder>0</ZOrder>
+                      <ZOrder>1</ZOrder>
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
@@ -2802,7 +2802,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1352</Image>
+                        <Image>1548</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>19</Height>
                         <Locked>False</Locked>
@@ -2829,7 +2829,7 @@
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
-                      <BackgroundImage>1353</BackgroundImage>
+                      <BackgroundImage>1534</BackgroundImage>
                       <ID>26</ID>
                       <Name>gLoad</Name>
                     </NormalGUI>
@@ -2858,7 +2858,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1354</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -2879,7 +2879,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1354</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -2900,7 +2900,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1354</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -2921,7 +2921,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1354</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -2942,7 +2942,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1354</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -2963,7 +2963,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1354</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -2984,7 +2984,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1354</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -3005,7 +3005,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1354</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -3026,7 +3026,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1354</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -3045,9 +3045,9 @@
                         <TextAlignment>Centred</TextAlignment>
                         <TextColor>8454</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1357</PushedImage>
-                        <MouseoverImage>1356</MouseoverImage>
-                        <Image>1355</Image>
+                        <PushedImage>1538</PushedImage>
+                        <MouseoverImage>1537</MouseoverImage>
+                        <Image>1536</Image>
                         <Text>Cancel</Text>
                         <Height>14</Height>
                         <Locked>False</Locked>
@@ -3066,9 +3066,9 @@
                         <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>0</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1360</PushedImage>
-                        <MouseoverImage>1359</MouseoverImage>
-                        <Image>1358</Image>
+                        <PushedImage>1542</PushedImage>
+                        <MouseoverImage>1541</MouseoverImage>
+                        <Image>1540</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>8</Height>
                         <Locked>False</Locked>
@@ -3095,7 +3095,7 @@
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
-                      <BackgroundImage>1361</BackgroundImage>
+                      <BackgroundImage>1399</BackgroundImage>
                       <ID>27</ID>
                       <Name>gMain</Name>
                     </NormalGUI>
@@ -3110,7 +3110,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1362</Image>
+                        <Image>1407</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>12</Height>
                         <Locked>False</Locked>
@@ -3131,7 +3131,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1363</Image>
+                        <Image>1409</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>12</Height>
                         <Locked>False</Locked>
@@ -3152,7 +3152,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1364</Image>
+                        <Image>1411</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>12</Height>
                         <Locked>False</Locked>
@@ -3173,7 +3173,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1365</Image>
+                        <Image>1419</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>12</Height>
                         <Locked>False</Locked>
@@ -3194,7 +3194,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1366</Image>
+                        <Image>1421</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>12</Height>
                         <Locked>False</Locked>
@@ -3215,7 +3215,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1367</Image>
+                        <Image>1423</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>12</Height>
                         <Locked>False</Locked>
@@ -3236,7 +3236,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1368</Image>
+                        <Image>1413</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>12</Height>
                         <Locked>False</Locked>
@@ -3257,7 +3257,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1369</Image>
+                        <Image>1415</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>12</Height>
                         <Locked>False</Locked>
@@ -3278,7 +3278,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1370</Image>
+                        <Image>1417</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>12</Height>
                         <Locked>False</Locked>
@@ -3299,7 +3299,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1371</Image>
+                        <Image>1402</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>20</Height>
                         <Locked>False</Locked>
@@ -3320,7 +3320,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1372</Image>
+                        <Image>1403</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>20</Height>
                         <Locked>False</Locked>
@@ -3360,7 +3360,7 @@
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
-                      <BackgroundImage>1373</BackgroundImage>
+                      <BackgroundImage>1550</BackgroundImage>
                       <ID>28</ID>
                       <Name>gOptions</Name>
                     </NormalGUI>
@@ -3384,12 +3384,12 @@
                         <ClickAction>RunScript</ClickAction>
                         <NewModeNumber>0</NewModeNumber>
                         <ClipImage>False</ClipImage>
-                        <TextAlignment>Centred</TextAlignment>
+                        <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>8454</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1376</PushedImage>
-                        <MouseoverImage>1375</MouseoverImage>
-                        <Image>1374</Image>
+                        <PushedImage>1537</PushedImage>
+                        <MouseoverImage>1551</MouseoverImage>
+                        <Image>1536</Image>
                         <Text>Default</Text>
                         <Height>14</Height>
                         <Locked>False</Locked>
@@ -3405,12 +3405,12 @@
                         <ClickAction>RunScript</ClickAction>
                         <NewModeNumber>0</NewModeNumber>
                         <ClipImage>False</ClipImage>
-                        <TextAlignment>Centred</TextAlignment>
+                        <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>8454</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1376</PushedImage>
-                        <MouseoverImage>1375</MouseoverImage>
-                        <Image>1374</Image>
+                        <PushedImage>1537</PushedImage>
+                        <MouseoverImage>1551</MouseoverImage>
+                        <Image>1536</Image>
                         <Text>Save</Text>
                         <Height>14</Height>
                         <Locked>False</Locked>
@@ -3426,12 +3426,12 @@
                         <ClickAction>RunScript</ClickAction>
                         <NewModeNumber>0</NewModeNumber>
                         <ClipImage>False</ClipImage>
-                        <TextAlignment>Centred</TextAlignment>
+                        <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>8454</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1376</PushedImage>
-                        <MouseoverImage>1375</MouseoverImage>
-                        <Image>1374</Image>
+                        <PushedImage>1537</PushedImage>
+                        <MouseoverImage>1551</MouseoverImage>
+                        <Image>1536</Image>
                         <Text>Load</Text>
                         <Height>14</Height>
                         <Locked>False</Locked>
@@ -3447,12 +3447,12 @@
                         <ClickAction>RunScript</ClickAction>
                         <NewModeNumber>0</NewModeNumber>
                         <ClipImage>False</ClipImage>
-                        <TextAlignment>Centred</TextAlignment>
+                        <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>8454</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1376</PushedImage>
-                        <MouseoverImage>1375</MouseoverImage>
-                        <Image>1374</Image>
+                        <PushedImage>1537</PushedImage>
+                        <MouseoverImage>1551</MouseoverImage>
+                        <Image>1536</Image>
                         <Text>Quit</Text>
                         <Height>14</Height>
                         <Locked>False</Locked>
@@ -3468,12 +3468,12 @@
                         <ClickAction>RunScript</ClickAction>
                         <NewModeNumber>0</NewModeNumber>
                         <ClipImage>False</ClipImage>
-                        <TextAlignment>Centred</TextAlignment>
+                        <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>8454</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1376</PushedImage>
-                        <MouseoverImage>1375</MouseoverImage>
-                        <Image>1374</Image>
+                        <PushedImage>1537</PushedImage>
+                        <MouseoverImage>1551</MouseoverImage>
+                        <Image>1536</Image>
                         <Text>Resume</Text>
                         <Height>14</Height>
                         <Locked>False</Locked>
@@ -3585,9 +3585,9 @@
                         <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>0</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1379</PushedImage>
-                        <MouseoverImage>1378</MouseoverImage>
-                        <Image>1377</Image>
+                        <PushedImage>1542</PushedImage>
+                        <MouseoverImage>1541</MouseoverImage>
+                        <Image>1540</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>8</Height>
                         <Locked>False</Locked>
@@ -3601,7 +3601,7 @@
                       <GUILabel>
                         <TextAlignment>TopRight</TextAlignment>
                         <TextColor>33808</TextColor>
-                        <Font>3</Font>
+                        <Font>22</Font>
                         <Text>Classic</Text>
                         <Height>12</Height>
                         <Locked>False</Locked>
@@ -3615,7 +3615,7 @@
                       <GUILabel>
                         <TextAlignment>TopLeft</TextAlignment>
                         <TextColor>33808</TextColor>
-                        <Font>3</Font>
+                        <Font>22</Font>
                         <Text>Modern</Text>
                         <Height>9</Height>
                         <Locked>False</Locked>
@@ -3642,7 +3642,7 @@
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
-                      <BackgroundImage>1380</BackgroundImage>
+                      <BackgroundImage>1552</BackgroundImage>
                       <ID>29</ID>
                       <Name>gPause</Name>
                     </NormalGUI>
@@ -3691,7 +3691,7 @@
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
-                      <BackgroundImage>1381</BackgroundImage>
+                      <BackgroundImage>1552</BackgroundImage>
                       <ID>30</ID>
                       <Name>gQuit</Name>
                     </NormalGUI>
@@ -3732,9 +3732,9 @@
                         <TextAlignment>Centred</TextAlignment>
                         <TextColor>8454</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1384</PushedImage>
-                        <MouseoverImage>1383</MouseoverImage>
-                        <Image>1382</Image>
+                        <PushedImage>1540</PushedImage>
+                        <MouseoverImage>1539</MouseoverImage>
+                        <Image>1538</Image>
                         <Text>Yes</Text>
                         <Height>14</Height>
                         <Locked>False</Locked>
@@ -3753,9 +3753,9 @@
                         <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>0</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1384</PushedImage>
-                        <MouseoverImage>1383</MouseoverImage>
-                        <Image>1382</Image>
+                        <PushedImage>1540</PushedImage>
+                        <MouseoverImage>1539</MouseoverImage>
+                        <Image>1538</Image>
                         <Text>No</Text>
                         <Height>14</Height>
                         <Locked>False</Locked>
@@ -3782,7 +3782,7 @@
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
-                      <BackgroundImage>1385</BackgroundImage>
+                      <BackgroundImage>1534</BackgroundImage>
                       <ID>31</ID>
                       <Name>gSave</Name>
                     </NormalGUI>
@@ -3811,9 +3811,9 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1386</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
-                        <Height>42</Height>
+                        <Height>49</Height>
                         <Locked>False</Locked>
                         <Width>70</Width>
                         <Left>50</Left>
@@ -3832,7 +3832,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1386</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -3853,7 +3853,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1386</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -3874,7 +3874,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1386</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -3895,7 +3895,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1386</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -3916,7 +3916,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1386</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -3937,7 +3937,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1386</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -3958,7 +3958,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1386</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -3979,7 +3979,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1386</Image>
+                        <Image>1535</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>49</Height>
                         <Locked>False</Locked>
@@ -3998,9 +3998,9 @@
                         <TextAlignment>Centred</TextAlignment>
                         <TextColor>8454</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1389</PushedImage>
-                        <MouseoverImage>1388</MouseoverImage>
-                        <Image>1387</Image>
+                        <PushedImage>1538</PushedImage>
+                        <MouseoverImage>1537</MouseoverImage>
+                        <Image>1536</Image>
                         <Text>Cancel</Text>
                         <Height>14</Height>
                         <Locked>False</Locked>
@@ -4019,9 +4019,9 @@
                         <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>0</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1392</PushedImage>
-                        <MouseoverImage>1391</MouseoverImage>
-                        <Image>1390</Image>
+                        <PushedImage>1542</PushedImage>
+                        <MouseoverImage>1541</MouseoverImage>
+                        <Image>1540</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>8</Height>
                         <Locked>False</Locked>
@@ -4061,9 +4061,9 @@
                         <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>0</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1395</PushedImage>
-                        <MouseoverImage>1394</MouseoverImage>
-                        <Image>1393</Image>
+                        <PushedImage>1544</PushedImage>
+                        <MouseoverImage>1543</MouseoverImage>
+                        <Image>1533</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>13</Height>
                         <Locked>False</Locked>
@@ -4082,9 +4082,9 @@
                         <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>0</TextColor>
                         <Font>0</Font>
-                        <PushedImage>1398</PushedImage>
-                        <MouseoverImage>1397</MouseoverImage>
-                        <Image>1396</Image>
+                        <PushedImage>1547</PushedImage>
+                        <MouseoverImage>1546</MouseoverImage>
+                        <Image>1545</Image>
                         <Text xml:space="preserve">New Button</Text>
                         <Height>14</Height>
                         <Locked>False</Locked>
@@ -14112,6 +14112,827 @@ return
                   </Sprite>
                 </Sprites>
               </SpriteFolder>
+              <SpriteFolder Name="tumbleweed">
+                <SubFolders>
+                  <SpriteFolder Name="en">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1407" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00059.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1408" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00060.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1409" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00061.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1410" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00062.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1411" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00063.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1412" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00064.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1413" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00065.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1414" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00066.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1415" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00067.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1416" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00068.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1417" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00069.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1418" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00070.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1419" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00071.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1420" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00072.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1421" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00073.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1422" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00074.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1423" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00075.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1424" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\en\spr00076.png</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="fr">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1425" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00123.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1426" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00124.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1427" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00125.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1428" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00126.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1429" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00127.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1430" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00128.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1431" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00129.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1432" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00130.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1433" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00131.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1434" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00132.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1435" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00133.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1436" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00134.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1437" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00135.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1438" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00136.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1439" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00137.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1440" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00138.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1441" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00139.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1442" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\fr\spr00140.png</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="de">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1443" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00094.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1444" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00101.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1445" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00102.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1446" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00103.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1447" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00104.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1448" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00105.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1449" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00106.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1450" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00107.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1451" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00108.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1452" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00109.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1453" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00110.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1454" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00111.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1455" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00112.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1456" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00113.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1457" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00114.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1458" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00115.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1459" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00116.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1460" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\de\spr00117.png</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="es">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1461" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00141.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1462" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00142.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1463" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00143.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1464" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00144.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1465" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00145.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1466" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00146.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1467" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00147.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1468" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00148.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1469" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00149.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1470" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00150.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1471" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00151.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1472" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00152.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1473" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00153.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1474" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00154.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1475" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00155.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1476" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00156.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1477" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00157.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1478" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\es\spr00158.png</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="it">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1479" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00159.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1480" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00160.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1481" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00161.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1482" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00162.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1483" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00163.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1484" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00164.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1485" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00165.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1486" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00166.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1487" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00167.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1488" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00168.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1489" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00169.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1490" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00170.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1491" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00171.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1492" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00172.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1493" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00173.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1494" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00174.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1495" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00175.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1496" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\it\spr00176.png</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="pt">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1497" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00177.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1498" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00178.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1499" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00179.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1500" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00180.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1501" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00181.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1502" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00182.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1503" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00183.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1504" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00184.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1505" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00185.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1506" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00186.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1507" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00187.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1508" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00188.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1509" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00189.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1510" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00190.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1511" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00191.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1512" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00192.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1513" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00193.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1514" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\pt\spr00194.png</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="nl">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1515" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00195.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1516" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00196.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1517" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00197.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1518" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00198.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1519" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00199.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1520" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00200.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1521" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00201.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1522" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00202.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1523" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00203.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1524" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00204.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1525" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00205.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1526" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00206.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1527" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00207.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1528" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00208.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1529" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00209.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1530" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00210.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1531" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00211.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1532" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\nl\spr00212.png</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="options">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1533" Width="14" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00054.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1534" Width="320" Height="200" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00080.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1535" Width="70" Height="49" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00081.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1536" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00082.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1537" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00083.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1538" Width="49" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00084.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1539" Width="49" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00085.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1540" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00086.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1541" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00087.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1542" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00088.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1543" Width="14" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00089.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1544" Width="14" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00090.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1545" Width="14" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00091.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1546" Width="14" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00092.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1547" Width="14" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00093.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1548" Width="20" Height="19" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00095.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1549" Width="70" Height="49" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00096.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1550" Width="320" Height="200" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00097.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1551" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00098.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1552" Width="320" Height="200" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00099.png</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1553" Width="49" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                        <Source>
+                          <FileName>C:\Users\GQHH9006\aaatemp\options\spr00100.png</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                </SubFolders>
+                <Sprites>
+                  <Sprite Slot="1399" Width="320" Height="42" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\GQHH9006\aaatemp\spr00051.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1400" Width="12" Height="19" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\GQHH9006\aaatemp\spr00052.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1401" Width="12" Height="19" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\GQHH9006\aaatemp\spr00053.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1402" Width="12" Height="20" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\GQHH9006\aaatemp\spr00055.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1403" Width="12" Height="20" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\GQHH9006\aaatemp\spr00056.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1404" Width="12" Height="20" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\GQHH9006\aaatemp\spr00057.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1405" Width="12" Height="20" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\GQHH9006\aaatemp\spr00058.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1406" Width="320" Height="55" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\GQHH9006\aaatemp\spr00122.png</FileName>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
             </SubFolders>
             <Sprites>
               <Sprite Slot="1" Width="20" Height="20" ColorDepth="8" Resolution="LowRes" AlphaChannel="False" />
@@ -18548,93 +19369,6 @@ return
               <Sprite Slot="1349" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="True" />
               <Sprite Slot="1350" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="True" />
               <Sprite Slot="1351" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="True" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gActionImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1352" Width="20" Height="19" ColorDepth="32" Resolution="LowRes" AlphaChannel="True" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gLoadImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1353" Width="320" Height="200" ColorDepth="32" Resolution="LowRes" AlphaChannel="True" />
-              <Sprite Slot="1354" Width="70" Height="49" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1355" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1356" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1357" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1358" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1359" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1360" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gMainImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1361" Width="320" Height="42" ColorDepth="32" Resolution="LowRes" AlphaChannel="True" />
-              <Sprite Slot="1362" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1363" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1364" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1365" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1366" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1367" Width="56" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1368" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1369" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1370" Width="50" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1371" Width="12" Height="20" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1372" Width="12" Height="20" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gOptionsImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1373" Width="320" Height="200" ColorDepth="32" Resolution="LowRes" AlphaChannel="True" />
-              <Sprite Slot="1374" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1375" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1376" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1377" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1378" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1379" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gPauseImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1380" Width="320" Height="200" ColorDepth="32" Resolution="LowRes" AlphaChannel="True" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gQuitImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1381" Width="320" Height="200" ColorDepth="32" Resolution="LowRes" AlphaChannel="True" />
-              <Sprite Slot="1382" Width="49" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1383" Width="49" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1384" Width="49" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gSaveImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1385" Width="320" Height="200" ColorDepth="32" Resolution="LowRes" AlphaChannel="True" />
-              <Sprite Slot="1386" Width="70" Height="49" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1387" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1388" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1389" Width="79" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1390" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1391" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1392" Width="8" Height="8" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gSaveConfirmImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1393" Width="14" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1394" Width="14" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1395" Width="14" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1396" Width="14" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1397" Width="14" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1398" Width="14" Height="14" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
             </Sprites>
           </SpriteFolder>
         </SubFolders>
@@ -33138,131 +33872,6 @@ return
                   </ScriptAndHeader>
                 </ScriptAndHeaders>
               </ScriptFolder>
-              <ScriptFolder Name="thumbleweed">
-                <SubFolders />
-                <ScriptAndHeaders>
-                  <ScriptAndHeader>
-                    <ScriptAndHeader_Header>
-                      <Script>
-                        <FileName>OLDDoubleClick.ash</FileName>
-                        <Name>Double Click</Name>
-                        <Description>Detects double mouse clicks</Description>
-                        <Author>Ivan Mogilko</Author>
-                        <Version>1.0.0</Version>
-                        <Key>884826083</Key>
-                        <IsHeader>True</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Header>
-                    <ScriptAndHeader_Script>
-                      <Script>
-                        <FileName>OLDDoubleClick.asc</FileName>
-                        <Name>Double Click</Name>
-                        <Description>Detects double mouse clicks</Description>
-                        <Author>Ivan Mogilko</Author>
-                        <Version>1.0.0</Version>
-                        <Key>884826083</Key>
-                        <IsHeader>False</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Script>
-                  </ScriptAndHeader>
-                  <ScriptAndHeader>
-                    <ScriptAndHeader_Header>
-                      <Script>
-                        <FileName>OLDDialogScript.ash</FileName>
-                        <Name>Dialogscript</Name>
-                        <Description>simplified fork of CDG</Description>
-                        <Author>abstauber</Author>
-                        <Version>1.2</Version>
-                        <Key>551174665</Key>
-                        <IsHeader>True</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Header>
-                    <ScriptAndHeader_Script>
-                      <Script>
-                        <FileName>OLDDialogScript.asc</FileName>
-                        <Name>Dialogscript</Name>
-                        <Description>simplified fork of CDG</Description>
-                        <Author>abstauber</Author>
-                        <Version>1.2</Version>
-                        <Key>551174665</Key>
-                        <IsHeader>False</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Script>
-                  </ScriptAndHeader>
-                  <ScriptAndHeader>
-                    <ScriptAndHeader_Header>
-                      <Script>
-                        <FileName>OLDVerbGui.ash</FileName>
-                        <Name>Tumbleweed Verbs</Name>
-                        <Description>GUI functions</Description>
-                        <Author>Authors named in header file</Author>
-                        <Version>1.1</Version>
-                        <Key>1562295785</Key>
-                        <IsHeader>True</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Header>
-                    <ScriptAndHeader_Script>
-                      <Script>
-                        <FileName>OLDVerbGui.asc</FileName>
-                        <Name>Tumbleweed Verbs</Name>
-                        <Description>GUI functions</Description>
-                        <Author>Authors named in header file</Author>
-                        <Version>1.1</Version>
-                        <Key>1562295785</Key>
-                        <IsHeader>False</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Script>
-                  </ScriptAndHeader>
-                  <ScriptAndHeader>
-                    <ScriptAndHeader_Header>
-                      <Script>
-                        <FileName>OLDOptionGui.ash</FileName>
-                        <Name>Save and Load</Name>
-                        <Description>Options, Save and Load Dialog functionality</Description>
-                        <Author>abstauber</Author>
-                        <Version>1.0</Version>
-                        <Key>1814943410</Key>
-                        <IsHeader>True</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Header>
-                    <ScriptAndHeader_Script>
-                      <Script>
-                        <FileName>OLDOptionGui.asc</FileName>
-                        <Name>Save and Load</Name>
-                        <Description>Options, Save and Load Dialog functionality</Description>
-                        <Author>abstauber</Author>
-                        <Version>1.0</Version>
-                        <Key>1814943410</Key>
-                        <IsHeader>False</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Script>
-                  </ScriptAndHeader>
-                  <ScriptAndHeader>
-                    <ScriptAndHeader_Header>
-                      <Script>
-                        <FileName>OLDTemplateSettings.ash</FileName>
-                        <Name />
-                        <Description />
-                        <Author />
-                        <Version />
-                        <Key>838654941</Key>
-                        <IsHeader>True</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Header>
-                    <ScriptAndHeader_Script>
-                      <Script>
-                        <FileName>OLDTemplateSettings.asc</FileName>
-                        <Name />
-                        <Description />
-                        <Author />
-                        <Version />
-                        <Key>838654941</Key>
-                        <IsHeader>False</IsHeader>
-                      </Script>
-                    </ScriptAndHeader_Script>
-                  </ScriptAndHeader>
-                </ScriptAndHeaders>
-              </ScriptFolder>
               <ScriptFolder Name="/lib/git_thumbleweed">
                 <SubFolders />
                 <ScriptAndHeaders>
@@ -33388,6 +33997,35 @@ return
                   </ScriptAndHeader>
                 </ScriptAndHeaders>
               </ScriptFolder>
+              <ScriptFolder Name="tumbleweedCUSTOM">
+                <SubFolders />
+                <ScriptAndHeaders>
+                  <ScriptAndHeader>
+                    <ScriptAndHeader_Header>
+                      <Script>
+                        <FileName>TemplateCUSTOMSettings.ash</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>134788367</Key>
+                        <IsHeader>True</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Header>
+                    <ScriptAndHeader_Script>
+                      <Script>
+                        <FileName>TemplateCUSTOMSettings.asc</FileName>
+                        <Name />
+                        <Description />
+                        <Author />
+                        <Version />
+                        <Key>134788367</Key>
+                        <IsHeader>False</IsHeader>
+                      </Script>
+                    </ScriptAndHeader_Script>
+                  </ScriptAndHeader>
+                </ScriptAndHeaders>
+              </ScriptFolder>
               <ScriptFolder Name="9-verb">
                 <SubFolders />
                 <ScriptAndHeaders>
@@ -33465,7 +34103,7 @@ return
                   </ScriptAndHeader>
                 </ScriptAndHeaders>
               </ScriptFolder>
-              <ScriptFolder Name="circle-verb">
+              <ScriptFolder Name="VerbCoin">
                 <SubFolders />
                 <ScriptAndHeaders>
                   <ScriptAndHeader>
@@ -33968,8 +34606,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\spain_short.ogg</SourceFileName>
                     <ScriptName>aMusicSpain_short</ScriptName>
+                    <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\spain_short.ogg</SourceFileName>
                     <Index>18</Index>
                     <Type>2</Type>
                     <BundlingType>InSeparateVOX</BundlingType>
@@ -34432,8 +35070,8 @@ return
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <TypeID>1</TypeID>
         <Name xml:space="preserve">Ambient Sound</Name>
+        <TypeID>1</TypeID>
         <MaxChannels>2</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>SlowFade</CrossfadeClips>
