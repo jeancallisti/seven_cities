@@ -6503,6 +6503,76 @@
                   </GUIButton>
                 </Controls>
               </GUIMain>
+              <GUIMain>
+                <NormalGUI>
+                  <OnClick />
+                  <Height>200</Height>
+                  <Width>320</Width>
+                  <Left>0</Left>
+                  <Top>0</Top>
+                  <Clickable>True</Clickable>
+                  <Visibility>NormalButInitiallyOff</Visibility>
+                  <PopupYPos>0</PopupYPos>
+                  <ZOrder>0</ZOrder>
+                  <BorderColor>33823</BorderColor>
+                  <Transparency>0</Transparency>
+                  <BackgroundColor>40</BackgroundColor>
+                  <BackgroundImage>0</BackgroundImage>
+                  <ID>33</ID>
+                  <Name>gDoNotEdit</Name>
+                </NormalGUI>
+                <Controls>
+                  <GUILabel>
+                    <TextAlignment>TopLeft</TextAlignment>
+                    <TextColor>63488</TextColor>
+                    <Font>0</Font>
+                    <Text xml:space="preserve">IMPORTANT MESSAGE</Text>
+                    <Height>19</Height>
+                    <Locked>False</Locked>
+                    <Width>200</Width>
+                    <Left>48</Left>
+                    <Top>36</Top>
+                    <ZOrder>0</ZOrder>
+                    <ID>0</ID>
+                    <Name>Label23</Name>
+                  </GUILabel>
+                  <GUILabel>
+                    <TextAlignment>TopLeft</TextAlignment>
+                    <TextColor>65535</TextColor>
+                    <Font>0</Font>
+                    <Text xml:space="preserve">You are now using the game files on Sync.com[[Do not add or remove any files in the AGS project on Dropbox. These files are now "dead" and anything you put there will be destroyed.</Text>
+                    <Height>85</Height>
+                    <Locked>False</Locked>
+                    <Width>215</Width>
+                    <Left>48</Left>
+                    <Top>63</Top>
+                    <ZOrder>1</ZOrder>
+                    <ID>1</ID>
+                    <Name>Label24</Name>
+                  </GUILabel>
+                  <GUIButton>
+                    <OnClick>bCloseDoNotEdit_OnClick</OnClick>
+                    <ClickAction>RunScript</ClickAction>
+                    <NewModeNumber>0</NewModeNumber>
+                    <ClipImage>False</ClipImage>
+                    <TextAlignment>TopMiddle</TextAlignment>
+                    <TextColor>0</TextColor>
+                    <Font>0</Font>
+                    <PushedImage>0</PushedImage>
+                    <MouseoverImage>0</MouseoverImage>
+                    <Image>0</Image>
+                    <Text>X</Text>
+                    <Height>14</Height>
+                    <Locked>False</Locked>
+                    <Width>15</Width>
+                    <Left>300</Left>
+                    <Top>5</Top>
+                    <ZOrder>2</ZOrder>
+                    <ID>2</ID>
+                    <Name>bCloseDoNotEdit</Name>
+                  </GUIButton>
+                </Controls>
+              </GUIMain>
             </GUIs>
           </GUIFolder>
           <GUIFolder Name="ingame">

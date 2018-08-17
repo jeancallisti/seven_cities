@@ -1,0 +1,149 @@
+/*****************************/
+/******** AGS MODULE: ********/
+/*********** TIMER ***********/
+/*****************************/
+
+/*****************************
+Description:
+
+Allows for creation of named timers with options to control whether  the  timer
+is run during normal game execution (while repeatedly_execute is  run)  or  run
+always  (while  repeatedly_execute_always  is  run),  whether  the   timer   is
+automatically removed upon expiration,  and  pausing  the  timers  temporarily.
+*****************************/
+
+/*****************************
+Macros (#define-s):
+
+TIMER_VERSION        -   This  defines  the  current  version  of  the   module
+TIMER_VERSION_201    -   This   defines   version    2.01   of    the    module
+TIMER_VERSION_200    -   This   defines   version    2.0    of    the    module
+TIMER_VERSION_100    -   This   defines   version    1.0    of    the    module
+*****************************/
+
+/*****************************
+Enumerated types:
+
+Timer_AutoRemoveType
+  eTimer_AutoRemove   - The timer is  automatically  removed  after  expiration
+  eTimer_NoAutoRemove - The timer is not automatically removed after expiration
+
+Timer_RunAlwaysType
+  eTimer_NotRunAlways - The  Timer  is  not  run   always   during   the   game
+  eTimer_RunAlways    - The   Timer   is   run   always   during    the    game
+*****************************/
+
+/*****************************
+Functions and Properties:
+
+int Timer.Count
+
+  Stores     the     number     of      timers      currently      in      use.
+
+bool Timer.Exists(String Name)
+
+  Returns   TRUE   if   timer   NAME   exists,   FALSE   if   it   does    not.
+
+Timer_AutoRemoveType Timer.GetAutoRemoveType(String Name)
+
+  Returns whether timer NAME is auto-removed.
+
+int Timer.GetLoopsRemaining(String timer)
+
+  Returns the number of loops remaining before  TIMER  expires.  Returns  0  if
+  TIMER does not exist.
+
+String Timer.GetNameByID(int ID)
+
+  Returns the name of the timer indexed by ID, or an empty String  if  no  such
+  timer exists.
+
+Timer_RunAlwaysType Timer.GetRunAlwaysType(String Name)
+
+  Returns whether timer TIMER is run always.
+
+bool Timer.IsAutoRemoved(String timer)
+
+  Returns whether TIMER is automatically removed when it expires (after a  call
+  to Timer.IsExpired()).
+
+bool Timer.IsExpired(String timer)
+
+  Returns whether TIMER has expired. Returns false if TIMER does not  exist  or
+  has not expired. If TIMER is auto-removed and expired, it  will  be  removed.
+
+bool Timer.IsNameValid(String name)
+
+  Returns whether NAME is a valid name for a timer.  NAME  cannot  contain  the
+  strings "//TimerStart" or "//TimerEnd" and must be non-null and non-empty  to
+  be   considered    valid.    Timer.Set    will    reject    invalid    names.
+
+bool Timer.IsPaused(String timer)
+
+  Returns whether TIMER is paused. Returns  false  if  TIMER  does  not  exist.
+
+bool Timer.IsRunAlways(String timer)
+
+  Returns  whether  TIMER  is  run  from  repeatedly_execute_always  (TRUE)  or
+  repeatedly_execute  (FALSE).  Returns  false  if  TIMER   does   not   exist.
+
+void Timer.Pause(String timer)
+
+  Temporarily pauses TIMER until released by Timer.UnPause.
+
+void Timer.Remove(String timer)
+
+  Removes  TIMER  completely.  Returns  false  if   TIMER   does   not   exist.
+
+bool Timer.Set(String timer, int loops,
+optional Timer_RunAlwaysType runalways,
+optional Timer_AutoRemoveType autoremove, optional bool paused)
+
+  Sets TIMER for LOOPS game loops.
+
+void Timer.UnPause(String timer)
+
+  Resumes TIMER after being paused with Timer.Pause.
+*****************************/
+
+/*****************************
+Licensing:
+
+// Permission is hereby granted, free of charge, to any person obtaining a copy
+// of this software and associated documentation  files  (the  "Software"),  to
+// deal in the Software without restriction, including without  limitation  the
+// rights to use, copy, modify, merge, publish, distribute, sublicense,  and/or
+// sell copies of the Software, and to permit persons to whom the  Software  is
+// furnished to do so, subject to the following conditions:
+//
+// The above copyright notice and this permission notice shall be  included  in
+// all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,  EXPRESS  OR
+// IMPLIED, INCLUDING BUT NOT LIMITED TO  THE  WARRANTIES  OF  MERCHANTABILITY,
+// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL  THE
+// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE  FOR  ANY  CLAIM,  DAMAGES  OR  OTHER
+// LIABILITY, WHETHER IN AN ACTION OF  CONTRACT,  TORT  OR  OTHERWISE,  ARISING
+// FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+// IN THE SOFTWARE.
+*****************************/
+
+/*****************************
+Module Change Log:
+
+ Version:     2.01
+ Date:        14 February 2007, 12:03 P.M. GMT -6:00
+ Author:      monkey_05_06
+ Description: Prevented collision of timer names  which  could  cause  crashes.
+
+ Version:     2.0
+ Date:        10 February 2007, 11:56 P.M. GMT -6:00
+ Author:      monkey_05_06
+ Description: Ported static functions to member functions to  remove  limit  on
+              number of timers.
+
+ Version:     1.0
+ Date:        07 November 2006, 12:10 P.M. GMT -6:00
+ Author:      monkey_05_06
+ Description: First public version of module.
+*****************************/

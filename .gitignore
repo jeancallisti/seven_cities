@@ -1,10 +1,14 @@
-/Seven Cities/backup_acsprset.spr
-/Seven Cities/acsprset.spr
-/Seven Cities/room*.crm
-/Seven Cities/Compiled/**
-/Seven Cities/_Debug/**
-/Seven Cities/lib/**/Compiled/**
-/Seven Cities/lib/**/Debug/**
+/**/Compiled/**
+/**/_Debug/**
+/**/backup_acsprset.spr
+
+/**/*.zip
+/**/*.avi
+/**/*.wav
+/**/*.mp3
+
+
+
 /Seven Cities/Music/MUSIC2.mp3
 /Seven Cities/Music/MUSIC3.mp3
 /Seven Cities/Music/MUSIC5.mp3
@@ -20,7 +24,6 @@ Downhill v1.04.zip
 /pro_template 0.5/Compiled/
 /pro_template 0.5/_Debug/Indy.exe
 /pro_template 0.5/_Debug/pro_template 0.5.exe
-/snow_demo/acsprset.spr
 /snow_demo/backup_acsprset.spr
 /standaloneclick/standaloneclick_demo 1.0.zip
 /standaloneclick/standaloneclick_demo 1.1.zip
