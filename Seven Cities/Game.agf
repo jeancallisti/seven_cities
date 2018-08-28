@@ -34307,30 +34307,6 @@ return
           <ScriptAndHeader>
             <ScriptAndHeader_Header>
               <Script>
-                <FileName>CheckPoints.ash</FileName>
-                <Name />
-                <Description />
-                <Author />
-                <Version />
-                <Key>227429921</Key>
-                <IsHeader>True</IsHeader>
-              </Script>
-            </ScriptAndHeader_Header>
-            <ScriptAndHeader_Script>
-              <Script>
-                <FileName>CheckPoints.asc</FileName>
-                <Name />
-                <Description />
-                <Author />
-                <Version />
-                <Key>227429921</Key>
-                <IsHeader>False</IsHeader>
-              </Script>
-            </ScriptAndHeader_Script>
-          </ScriptAndHeader>
-          <ScriptAndHeader>
-            <ScriptAndHeader_Header>
-              <Script>
                 <FileName>Timer_2_01.ash</FileName>
                 <Name>Timer</Name>
                 <Description>Allows for creation of named timers with options to control whether the timer is run during normal game execution (while repeatedly_execute is run) or run always (while repeatedly_execute_always is run), whether the timer is automatically removed upon expiration, and pausing the timers temporarily.</Description>
@@ -34396,6 +34372,30 @@ return
                 <Author />
                 <Version />
                 <Key>1626723582</Key>
+                <IsHeader>False</IsHeader>
+              </Script>
+            </ScriptAndHeader_Script>
+          </ScriptAndHeader>
+          <ScriptAndHeader>
+            <ScriptAndHeader_Header>
+              <Script>
+                <FileName>CheckPoints.ash</FileName>
+                <Name />
+                <Description />
+                <Author />
+                <Version />
+                <Key>227429921</Key>
+                <IsHeader>True</IsHeader>
+              </Script>
+            </ScriptAndHeader_Header>
+            <ScriptAndHeader_Script>
+              <Script>
+                <FileName>CheckPoints.asc</FileName>
+                <Name />
+                <Description />
+                <Author />
+                <Version />
+                <Key>227429921</Key>
                 <IsHeader>False</IsHeader>
               </Script>
             </ScriptAndHeader_Script>
