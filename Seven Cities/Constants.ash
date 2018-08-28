@@ -27,6 +27,7 @@ enum RoomsEnum
     eRoom_GUI_01_EndCredits = 10,
     eRoom_GUI_02_Disclaimer = 20,
     eRoom_GUI_03_CheckPointSelection = 12,
+    eRoom_GUI_03_Settings = 97,
     
     //00 (unused)
     eRoom_00_00_ = 666,
