@@ -4347,7 +4347,7 @@
                   <Clickable>True</Clickable>
                   <Visibility>NormalButInitiallyOff</Visibility>
                   <PopupYPos>0</PopupYPos>
-                  <ZOrder>0</ZOrder>
+                  <ZOrder>9999</ZOrder>
                   <BorderColor>50688</BorderColor>
                   <Transparency>0</Transparency>
                   <BackgroundColor>65040</BackgroundColor>
